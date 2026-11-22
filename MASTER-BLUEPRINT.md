@@ -1,463 +1,561 @@
-# GLOBAL AI SUPER HUB
-## Master Blueprint — Version 1.0
+# GLOBAL AI SUPER HUB — MASTER BLUEPRINT
 
-**Vision:** One Platform. Every Goal. A Complete AI Ecosystem.
+## 1. Vision
 
-**Mission:** लोगों को उनके लक्ष्य समझने, कौशल सीखने, काम पूरा करने, व्यवसाय बनाने और वास्तविक प्रगति हासिल करने में मदद करने वाला एक भरोसेमंद AI प्लेटफॉर्म बनाना।
+**One Platform. Every Goal.**
 
-**Project Status:** Planning  
-**Implementation Status:** Not Started  
-**Budget Target:** ₹0 initial budget  
-**Initial Languages:** Hindi and English  
-**Initial Priority:** Mobile-friendly, secure and reliable platform
+GLOBAL AI SUPER HUB is a unified AI-powered platform designed to help people understand their goals, make practical plans, use specialized AI tools, complete tasks, and track measurable progress.
 
----
+The platform should work for beginners, creators, students, freelancers, traders, entrepreneurs, and businesses worldwide.
 
-# 1. CORE AI GOAL-TO-ACTION ENGINE
+Core principle: Real usefulness, honest results, user control, privacy, and sustainable growth.
 
-The central intelligence system of the platform.
+## 2. Central AI Brain
 
-Features:
-- Understand user goals and problems.
-- Identify the correct department and tools.
-- Ask only necessary follow-up questions.
-- Create personalized action plans.
-- Break large goals into small tasks.
-- Guide users step by step.
-- Track task and project progress.
+The central AI system is the heart of the platform.
+
+It must:
+- Understand the user's goal and problem.
+- Ask only necessary clarification questions.
+- Identify the best department and tools.
+- Build a personalized action plan.
+- Break large goals into manageable tasks.
+- Help users execute tasks step by step.
+- Track progress and completed work.
 - Recommend the next useful action.
-- Save user projects and preferences with consent.
-- Provide daily missions and weekly reviews.
-- Support Hindi and English.
-- Provide voice-assistant capability when supported.
-- Smart search across platform tools.
-- Personalized dashboard.
-- Reminders and notifications with user control.
-- Progress reports and milestone tracking.
-
-Core workflow:
-
-USER GOAL → UNDERSTANDING → EXPERT ROUTING → ACTION PLAN → EXECUTION → PROGRESS TRACKING → NEXT STEP
-
-# 2. MONEY AND EARNING HUB
-
-Tools:
-- No-investment earning guide.
-- Online business idea finder.
-- Freelancing assistant.
-- Skill-to-income planner.
-- Income planning assistant.
-- Business opportunity finder.
-- Profit and income calculators.
-- Service pricing assistant.
-- Portfolio and profile builder.
-- Client proposal writer.
-- Freelance communication assistant.
-- Realistic earning roadmap.
-
-The platform must never promise guaranteed income.
-
-# 3. TRADING ACADEMY
-
-Tools:
-- Candlestick learning.
-- Chart-reading tutor.
-- Support and resistance trainer.
-- Trend identification lessons.
-- Risk management calculator.
-- Position sizing calculator.
-- Risk/reward calculator.
-- Paper trading simulator.
-- Trading journal.
-- Backtesting assistant.
-- Trading psychology coach.
-- Trading education roadmap.
-- Strategy learning and practice.
-
-Trading tools are educational and simulated unless explicitly connected to a properly authorized service. No guaranteed profits or misleading buy/sell signals.
-
-# 4. CREATOR AND VIRAL STUDIO
-
-Tools:
-- YouTube video idea generator.
-- Instagram content planner.
-- Facebook content planner.
-- Short-video idea generator.
-- Long-video script writer.
-- Shorts and Reels script writer.
-- Story writer.
-- Video hooks generator.
-- Titles and captions generator.
-- Hashtag assistant.
-- Thumbnail concept generator.
-- Content calendar.
-- Channel audit.
-- SEO assistant.
-- Content repurposing.
-- Audience growth planner.
-- Monetization planner.
-- Creator performance analysis.
-
-No guarantee of virality or platform earnings.
-
-# 5. COMPLETE AI VIDEO CREATION SYSTEM
-
-A complete video workflow must cover:
-
-1. Idea generation.
-2. Script writing.
-3. Story structure.
-4. Storyboard creation.
-5. Scene-by-scene planning.
-6. Image generation or image import.
-7. Video clip generation or import.
-8. Voice-over creation or upload.
-9. Music and sound effects.
-10. Video editing and scene arrangement.
-11. Text and subtitles.
-12. Transitions and timing.
-13. Preview.
-14. Final export.
-
-A video maker must not be declared complete if only script generation works. Every stage must be implemented, tested and connected end to end. External APIs and paid services must be clearly identified. Provide free alternatives where practical.
-
-# 6. BUSINESS BUILDER
-
-Tools:
-- Business idea finder.
-- Business plan generator.
-- Business name generator.
-- Brand identity assistant.
-- Website planning and builder.
-- App planning assistant.
-- Product description writer.
-- Advertisement maker.
-- Sales script writer.
-- Customer reply assistant.
-- Lead generation assistant.
-- Customer management.
-- Customer retention assistant.
-- Invoice generator.
-- Business report generator.
-- Competitor analysis.
-- Market research.
-- Business Doctor.
-- Business Autopilot.
-- Offer and sales campaign generator.
-- Workflow automation planner.
-- Business chatbot builder.
-
-# 7. DIGITAL MARKETING HUB
-
-Tools:
-- SEO assistant.
-- Keyword research.
-- Google Ads campaign planner.
-- Facebook Ads planner.
-- Instagram Ads planner.
-- Social media marketing.
-- Email marketing.
-- WhatsApp marketing.
-- Sales funnel builder.
-- Lead generation.
-- Audience research.
-- Campaign planner.
-- Marketing analytics.
-- Brand strategy.
-- Ad copy and creative assistant.
-- Campaign performance review.
-
-# 8. NETWORK MARKETING HUB
-
-Tools:
-- Company and product evaluation.
-- Product presentation builder.
-- Team-building education.
-- Communication trainer.
-- Customer conversation scripts.
-- Follow-up assistant.
-- Team training.
-- Leadership coach.
-- Motivation and learning plans.
-- Commission calculator.
-- Ethical marketing guide.
-
-The platform must discourage pyramid schemes, misleading income claims, coercive recruiting and unlawful business practices.
-
-# 9. LEARNING ACADEMY
-
-Tools:
-- English learning.
-- Coding tutor.
-- Digital marketing courses.
-- Computer skills.
-- Business education.
-- Trading education.
-- Personalized learning plans.
-- Daily lessons.
-- Quizzes and tests.
-- Practice exercises.
-- Progress tracking.
-- Personal AI tutor.
-
-# 10. CREATIVE STUDIO
-
-Tools:
-- Story writer.
-- Image generation integration.
-- Logo design assistance.
-- Graphic design assistance.
-- Advertisement creative.
-- Product image assistance.
-- Presentation creator.
-- Social media design assistance.
-- Creative writing.
-- Brand content generation.
-
-# 11. PERSONAL AI ASSISTANT
-
-Tools:
-- Daily planner.
-- Goal tracker.
-- Voice assistant.
-- Reminders.
-- Document assistant.
-- Weekly review.
-- Progress reports.
-- Productivity coach.
-- Personal project organizer.
-- User-controlled memory and preferences.
-
-# 12. RESEARCH AND INTELLIGENCE HUB
-
-Tools:
-- Market research.
-- Competitor research.
-- Trend discovery.
-- Product research.
-- Opportunity finder.
-- Public information research.
-- Business intelligence reports.
-- Industry analysis.
-- Research summaries.
-
-Use lawful public information and respect privacy, copyrights and website access restrictions.
-
-# 13. AI APP AND WEBSITE STUDIO
-
-Tools:
-- Website planning.
-- Website creation assistance.
-- App planning.
-- UI/UX guidance.
-- Code assistant.
-- Code explanation.
-- Bug detection assistance.
-- Debugging guidance.
-- Testing guidance.
-- Deployment guidance.
-- Project documentation.
-
-# 14. CUSTOMER AND SALES HUB
-
-Tools:
-- Customer discovery.
-- Lead management.
-- Sales funnel.
-- Customer communication.
-- Follow-up planner.
-- Sales scripts.
-- Sales analytics.
-- Customer retention.
-- Customer support chatbot.
-- Customer relationship management.
-
-# 15. EXTRA PRODUCTIVITY AND BUSINESS TOOLS
-
-Additional tools:
-- AI email writer.
-- AI message writer.
-- Resume builder.
-- Portfolio builder.
-- AI chatbot builder.
-- Invoice assistant.
-- Report generator.
-- Product description generator.
-- Advertisement copywriter.
-- Customer retention assistant.
-- SEO and channel audit.
-- Content repurposing.
-- Multi-platform campaign planner.
-- Daily missions.
-- Weekly review.
-- Document summarizer.
-- Presentation assistant.
-- Workflow planner.
-
-# 16. REFERRAL AND REWARDS HUB
-
-Planned features:
-- Unique referral link or code.
-- Referral dashboard.
-- New-user subscription discount.
-- Commission on eligible real paid subscriptions.
-- Earnings dashboard.
-- Wallet records.
-- Withdrawal system.
-- Leaderboard.
-- Fraud prevention.
-- Referral terms and conditions.
-
-Referral commissions must be based on genuine eligible purchases, not recruitment or multi-level chain payments. Any commission rate, discount, payout method or withdrawal threshold must be finalized only after checking costs, refunds, payment rules, taxes and applicable laws.
-
-# 17. SUBSCRIPTION AND REVENUE SYSTEM
-
-Possible future plans:
-- Free plan.
-- Premium plans.
-- Monthly subscription.
-- Yearly subscription.
-- AI usage credits.
-- Business plans.
-- Expert marketplace.
-- Affiliate partnerships.
-- API access.
-
-Do not integrate paid subscriptions until the core product and operating costs have been validated. Pricing and limits must be transparent.
-
-# 18. USER EXPERIENCE AND DASHBOARD
-
-The platform should provide:
-- Simple mobile-first interface.
-- Personal dashboard.
-- Department navigation.
-- Tool search.
-- Recent projects.
-- Saved work.
-- Progress overview.
-- Account and privacy settings.
-- Language selection.
-- Accessible design.
-- Clear loading, success and error messages.
-- Honest indication of unavailable or upcoming features.
-
-# 19. SECURITY, PRIVACY AND RELIABILITY
-
-Requirements:
-- Never expose secret API keys in frontend code.
-- Secure authentication.
-- Proper authorization.
-- Server-side validation.
-- Rate limiting and abuse protection.
-- Safe file uploads.
-- User data privacy.
-- User-controlled saved information.
-- Secure database rules.
-- Error handling and logging.
-- Backups and recovery plan.
-- Dependency and security checks.
-- Clear data deletion process.
-- No unauthorized access to user accounts or private information.
-
-# 20. ZERO-BUDGET DEVELOPMENT PRINCIPLES
-
-- Prefer free and open-source tools.
-- Check free-tier limits before selecting services.
-- Do not assume that an API is free.
-- Never activate paid services without user approval.
-- Keep API usage and hosting costs visible.
-- Provide a usable fallback when an external service is unavailable.
-- Keep the project deployable within the available budget.
-- Do not promise features that cannot be delivered within the current technical or cost limits.
-
-# 21. DEVELOPMENT ROADMAP
-
-Phase 1: Complete product blueprint and feature inventory.
-
-Phase 2: Technical architecture and technology selection.
-
-Phase 3: Project structure and development environment.
-
-Phase 4: Database, authentication and security foundation.
-
-Phase 5: Responsive dashboard and navigation.
-
-Phase 6: Core AI Goal-to-Action Engine.
-
-Phase 7: Department-by-department implementation.
-
-Phase 8: Complete end-to-end workflows for each selected tool.
-
-Phase 9: User projects, saved work and progress tracking.
-
-Phase 10: Referral and subscription systems, after validation.
-
-Phase 11: Security, performance and regression testing.
-
-Phase 12: Beta launch and user feedback.
-
-Phase 13: Improvements and global expansion.
-
-# 22. QUALITY CONTROL RULES
-
-A feature is not complete merely because its screen or button exists.
+- Explain limitations, costs, and risks honestly.
+- Support Hindi and English initially, with future multilingual expansion.
+
+### Goal-to-Action workflow
+
+User Goal → AI Understanding → Required Questions → Expert Routing → Personalized Roadmap → Task Execution → Saved Results → Progress Tracking → Next Action.
+
+## 3. Platform-wide Systems
+
+1. Central AI Brain
+2. Smart Search
+3. AI Expert Routing
+4. Personal AI Assistant
+5. Goal-to-Action Engine
+6. Personalized Roadmap Builder
+7. Task Execution Assistant
+8. Project Workspace
+9. Progress Tracker
+10. Daily Missions
+11. Weekly Reviews
+12. Reminders and Notifications
+13. User-controlled AI Memory
+14. Saved Projects and History
+15. Voice Assistant
+16. Hindi and English Interface
+17. Reports and Export
+18. User Dashboard
+19. Help and Support
+20. Feedback System
+
+## 4. Department 1 — Money & Earning Hub
+
+- Zero-investment earning opportunities
+- Online earning ideas
+- Skill-to-income planner
+- Freelancing assistant
+- Profile and portfolio guidance
+- Proposal and client message writer
+- Online business ideas
+- Opportunity finder
+- Income goal planner
+- Daily earning action plan
+- Side business planner
+- Mobile-friendly earning options
+- Pricing and profit calculators
+- Expense and income tracker
+- Scam and fraud warning system
+- Skill development roadmap
+- Income reports
+
+## 5. Department 2 — Trading Academy
+
+Educational and practice-focused tools:
+
+- Candlestick learning
+- Candlestick pattern trainer
+- Support and resistance trainer
+- Trend analysis lessons
+- Price action learning
+- Chart analysis assistant
+- Technical analysis lessons
+- Risk management trainer
+- Position size calculator
+- Risk-reward calculator
+- Paper trading simulator
+- Trading journal
+- Strategy laboratory
+- Backtesting tools
+- Trading psychology lessons
+- Mistake analyzer
+- Trading quizzes
+- Learning roadmap
+- Performance reports
+
+No guaranteed profit claims or guaranteed buy/sell signals.
+
+## 6. Department 3 — Creator & Viral Studio
+
+- YouTube video ideas
+- Instagram Reels ideas
+- Facebook content ideas
+- Shorts and long-form scripts
+- Hooks and introductions
+- Titles and descriptions
+- Hashtag generator
+- Captions and subtitles
+- Thumbnail concepts
+- Content calendar
+- Channel audit
+- SEO assistant
+- Competitor research
+- Audience research
+- Content repurposing
+- Creator growth planner
+- Monetization planner
+- Creator analytics
+- Multi-platform campaign planner
+- Moral stories
+- Horror stories
+- Educational content
+- Emotional drama
+- ASMR content
+
+No guaranteed virality or guaranteed earnings.
+
+## 7. Department 4 — Complete AI Video Creation System
+
+The complete intended pipeline:
+
+1. Idea generation
+2. Topic research
+3. Script writing
+4. Video duration selection
+5. Storyboard creation
+6. Scene planning
+7. Character consistency planning
+8. Image prompt generation
+9. Image generation
+10. Image-to-video workflow
+11. Video clip generation
+12. Voice generation
+13. Voice selection and timing
+14. Background music
+15. Sound effects
+16. Timeline editing
+17. Scene arrangement
+18. Text and titles
+19. Subtitles and captions
+20. Transitions
+21. Audio-video synchronization
+22. Aspect ratio selection
+23. Resolution selection
+24. Preview
+25. Final export
+26. Save and resume projects
+
+The video maker is not complete until its end-to-end workflow is implemented and tested. External services may require paid APIs; free alternatives and costs must be clearly disclosed.
+
+## 8. Department 5 — Business Builder
+
+- Business idea generator
+- Business plan creator
+- Business name generator
+- Brand identity planner
+- Business model planner
+- Website planning assistant
+- App planning assistant
+- Product description writer
+- Advertisement creator
+- Sales script generator
+- Lead generation planner
+- Customer communication assistant
+- Customer retention assistant
+- Invoice and report generator
+- Competitor analysis
+- Market research
+- Business Doctor
+- Business Autopilot
+- Offer and funnel planner
+- Business chatbot planner
+- Workflow automation planner
+- Performance dashboard
+
+## 9. Department 6 — Digital Marketing
+
+- SEO assistant
+- Keyword research
+- Website SEO audit
+- Google Ads planning
+- Facebook and Instagram Ads planning
+- Social media marketing
+- Email marketing
+- WhatsApp marketing
+- Marketing funnels
+- Lead generation
+- Audience research
+- Campaign planner
+- Marketing analytics
+- Brand strategy
+- Content marketing
+- Advertisement copywriting
+- Landing page planning
+- Conversion optimization
+- Campaign reports
+
+## 10. Department 7 — Network Marketing
+
+- Company and product evaluation
+- Legal and ethical checklist
+- Team-building planner
+- Presentation creator
+- Customer conversation scripts
+- Follow-up assistant
+- Team training
+- Leadership development
+- Motivation tools
+- Commission calculator
+- Performance tracking
+- Communication trainer
+- Ethical marketing education
+
+Avoid pyramid schemes, misleading income claims, and coercive recruitment.
+
+## 11. Department 8 — Learning Academy
+
+- Spoken English
+- English writing practice
+- Coding lessons
+- Computer skills
+- Digital marketing courses
+- Business learning
+- Trading education
+- AI skills training
+- Personalized daily lessons
+- AI personal tutor
+- Quizzes and tests
+- Exercises and practice
+- Progress tracking
+- Learning roadmaps
+- Certification pathways
+
+## 12. Department 9 — Creative Studio
+
+- Story writing
+- AI image generation
+- Logo creation
+- Poster design
+- Social media designs
+- Advertisement creatives
+- Product photo concepts
+- Presentation creation
+- Thumbnail creation
+- Brand design
+- Prompt generator
+- Design brief generator
+
+## 13. Department 10 — Personal AI Assistant
+
+- Daily planner
+- Goal planner
+- Voice assistant
+- Reminders
+- Document assistant
+- Weekly reviews
+- Reports
+- Productivity planner
+- Project organizer
+- User-controlled AI memory
+- Calendar and task planning
+- Priority manager
+
+## 14. Department 11 — Research & Intelligence
+
+- Market research
+- Competitor research
+- Trend analysis
+- Product research
+- Business opportunities
+- Public information research
+- Research summaries
+- Data comparisons
+- Industry reports
+- Source and evidence tracking
+- Research-to-action planning
+
+## 15. Department 12 — AI App & Website Studio
+
+- Website planning
+- App planning
+- Site structure
+- UI/UX assistance
+- Code generation and explanation
+- Bug finding
+- Debugging assistant
+- Database guidance
+- API integration guidance
+- Deployment assistance
+- Security checklists
+- Testing checklists
+- Chatbot builder
+- Documentation generator
+
+## 16. Department 13 — Customer & Sales
+
+- Customer finder
+- Lead management
+- Sales funnels
+- Customer communication
+- Follow-up assistant
+- Sales scripts
+- Sales analytics
+- Customer retention
+- Feedback analysis
+- Customer support assistant
+- CRM planning
+- Sales reports
+
+## 17. Department 14 — Referral & Rewards
+
+- Referral links and codes
+- New-user discounts
+- Commission on eligible paid subscriptions
+- Referral dashboard
+- Wallet
+- Withdrawal management
+- Leaderboard
+- Fraud prevention
+- Referral analytics
+- Commission history
+- Refund and chargeback adjustments
+
+A previously discussed 10% referral commission and 10% new-user discount are provisional ideas only. Final rates must depend on payment fees, operating costs, taxes, refunds, and legal review. No multi-level pyramid-style commissions.
+
+## 18. Department 15 — Plans & Subscriptions
+
+- Free plan
+- Premium monthly plan
+- Premium yearly plan
+- AI credits
+- Business plans
+- Team plans
+- Expert marketplace concept
+- Affiliate partnerships
+- Future API access
+- Usage dashboard
+- Subscription management
+- Billing history
+- Refund management
+
+Payments will be introduced only after the core product is useful and validated.
+
+## 19. Additional AI Tools
+
+These tools should be integrated into relevant departments:
+
+- AI Email Writer
+- AI Message Writer
+- Resume Builder
+- Portfolio Builder
+- AI Chatbot Builder
+- Invoice Generator
+- Report Generator
+- Product Description Writer
+- Advertisement Maker
+- Customer Retention Assistant
+- SEO Audit
+- YouTube Channel Audit
+- Content Repurposing
+- Creator Analytics
+- Monetization Planner
+- Trading Simulator
+- Trading Journal
+- Multi-output Campaign Creator
+- Voice Assistant
+- Daily Missions
+- Weekly Review Assistant
+
+## 20. User Experience
+
+- Mobile-first responsive design
+- Desktop and tablet support
+- Simple navigation
+- Easy-to-understand language
+- Search across tools
+- Department-wise organization
+- Clear loading and error states
+- Save and resume projects
+- Accessible controls
+- Hindi and English support
+- Future multilingual expansion
+
+## 21. Security and Privacy
+
+- Secure authentication
+- Server-side API key storage
+- Database access controls
+- User data isolation
+- Rate limits and usage quotas
+- Input validation
+- Error handling
+- Secure logging
+- Backups
+- Development, testing, and production separation
+- Privacy and data deletion controls
+- No secret keys in frontend code
+
+## 22. Technical Strategy
+
+Initial preference: free-tier and open-source tools wherever practical.
+
+Potential technologies:
+- React
+- Vite
+- Cloudflare Pages
+- Cloudflare Functions
+- Supabase or Cloudflare D1 after evaluation
+- Server-side AI API integrations
+- GitHub version control
+- Automated build and regression tests
+
+All free-tier limits, API charges, and service restrictions must be checked before implementation.
+
+Never promise that every feature can operate free forever.
+
+## 23. Development Roadmap
+
+Phase 1: Foundation
+- Master blueprint
+- Feature registry
+- Architecture
+- Technical and cost decisions
+- Project structure
+- Build validation
+
+Phase 2: Core Infrastructure
+- Authentication
+- Database
+- User profiles
+- Secure server-side configuration
+- Project saving
+
+Phase 3: Central AI Brain
+- Goal understanding
+- Clarification engine
+- Expert routing
+- Roadmap generation
+- Task execution
+
+Phase 4: Department Development
+- Build tools department by department
+- Complete real workflows
+- Save and export results
+- Error handling
+
+Phase 5: Advanced Systems
+- Progress tracking
+- User personalization
+- Voice assistant
+- Notifications
+- Daily missions
+- Weekly reviews
+
+Phase 6: Business Model
+- Referral system
+- Subscription plans
+- Payments
+- Billing and refunds
+- Fraud prevention
+
+Phase 7: Quality and Launch
+- Security review
+- Automated tests
+- Mobile and desktop tests
+- Regression testing
+- Beta users
+- Feedback
+- Performance monitoring
+- Global expansion
+
+## 24. Feature Completion Rules
+
+A feature is not complete merely because a button or screen exists.
 
 Every feature must have:
-- Defined purpose.
-- Clear user input.
-- Working processing logic.
-- Useful output.
-- Error handling.
-- Save or export capability where relevant.
-- Mobile usability.
-- Acceptance tests.
-- End-to-end verification.
+- A working user input
+- Real processing or a clearly stated limitation
+- A useful output
+- Validation
+- Error handling
+- Mobile usability
+- Save/export support where relevant
+- Acceptance tests
+- Regression tests
 
-Before declaring a milestone complete:
-1. Review the implementation.
-2. Run available automated tests.
-3. Check the user workflow.
-4. Test failure and empty-input cases.
-5. Check mobile layout.
-6. Run regression tests on existing features.
-7. Record test results.
-8. Commit a verified backup.
+Never mark a feature complete without evidence.
 
-Never claim a test was performed if it was not performed. Never add fake buttons or pretend integrations. Clearly label features that are planned, unavailable or dependent on external services.
+## 25. Project Management Rules
 
-# 23. FEATURE TRACEABILITY
+- Preserve all approved feature ideas.
+- Maintain a feature registry with status and dependencies.
+- Use GitHub commits and backups.
+- Work in small verified milestones.
+- Test existing features after important changes.
+- Avoid unnecessary redesigns.
+- Do not reuse the old STORY-AI-PRO project.
+- Keep costs transparent.
+- Never claim a test passed unless it was actually run.
+- Quality is more important than rushing.
 
-Every feature listed in this blueprint must receive:
-- A unique feature ID.
-- A department.
-- A development status.
-- Dependencies.
-- Acceptance criteria.
-- Test evidence.
-- A release milestone.
+## 26. Current Verified Project Status
 
-No requested feature should silently disappear from the project plan.
+Repository:
+https://github.com/bs309796-prog/GLOBAL-AI-SUPER-HUB
 
-Suggested statuses:
-- PLANNED
-- DESIGNED
-- IN DEVELOPMENT
-- IMPLEMENTED
-- TESTING
-- VERIFIED
-- BLOCKED
-- DEFERRED
+Production website:
+https://global-ai-super-hub.pages.dev
 
-# 24. DEFINITION OF DONE
+Verified foundation:
+- GitHub repository created
+- React and Vite project configured
+- Responsive dashboard created
+- 15 department cards displayed
+- Department search works in manual user tests
+- Department selection and close interaction work in manual user tests
+- No-results and clear-search behavior tested manually
+- GitHub Actions Build Check passed
+- Cloudflare Pages deployment succeeded
 
-A department or workflow can be marked VERIFIED only when its agreed functionality works from beginning to end, its acceptance tests pass, its limitations are documented, and existing verified features still work.
+Not yet implemented or verified:
+- Authentication
+- Database
+- Central AI Brain
+- Real AI department tools
+- Complete video generation pipeline
+- Saved user projects
+- Progress tracking
+- Voice assistant
+- Referral and rewards
+- Subscription and payment system
+- Full end-to-end tests
+- Production security review
 
-The overall platform will be released gradually. A working, honest product is more important than a large collection of incomplete tools.
+The dashboard is an early foundation, not a finished AI platform.
 
----
+## 27. Immediate Next Priorities
 
-**Project Principle:**
+1. Consolidate and preserve the master blueprint.
+2. Create a feature registry with status, dependencies, and acceptance criteria.
+3. Review architecture and free-tier costs.
+4. Implement secure authentication and database.
+5. Build the central AI Brain.
+6. Complete one useful department workflow end-to-end.
+7. Expand systematically with regression testing.
 
-Build with honesty. Test before release. Protect user data. Respect the user's budget. Deliver real value.
+**Final Mission: Build a reliable, useful, secure, and globally accessible AI Super Hub — one verified milestone at a time.**
 
-**GLOBAL AI SUPER HUB — One Platform. Every Goal.**
